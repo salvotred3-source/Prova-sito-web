@@ -1,0 +1,567 @@
+body{
+    background-color: white;
+  margin-top: 0;
+}
+
+img{
+  margin: 0%;
+   
+}
+
+header,main,footer{
+    max-width: 600px;
+    margin: auto;
+    justify-content: center;
+    padding-right: 150px;
+}
+
+header{
+    background-color: black;
+    max-width: 1440px;
+    margin: 0%;
+    padding-left: 45px;
+    padding-top: 15px;
+    display: flex;
+    max-height: 60px;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+header,h1{
+    color: white;
+    margin: 0px;
+    font-size: 40px;
+    padding-bottom: 5px;
+  
+  
+}
+
+
+.navigazione, a {
+  font-size: 18px; 
+  color: white;
+  text-decoration: underline;
+}
+
+header, nav, div.navigazione {
+ 
+  display: flex;
+  gap: 20px;
+  padding-bottom: 7px;
+  padding-right: 20px;
+}
+
+main,section,div.benvenuti{
+    text-align: center;
+}
+
+main,section,div.benvenuti,h1.benvenuti{
+   font-size: 40px;
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: bold;
+
+  padding-top: 20px;
+  text-align: center;
+  padding-left: 50px;
+  color: black;
+  
+   
+}
+
+footer{
+    background-color: black;
+   max-width: 1440px;
+    height: fit-content;
+    height: 50px;
+
+}
+
+footer,nav.footer{
+    text-align: center;
+    color: white;
+    padding-left: 80px;
+    align-items: center;
+    padding-left: 360px;
+    padding-top: 8px;
+   
+}
+
+section.card{
+    display: grid;
+    padding: 10%;
+    grid-template-columns: 1fr 1fr  ;
+    gap: 200px;
+}
+
+p.camilio{
+  font-size: 18px;
+  background-color: black; 
+  color: white;
+    padding: 10px;
+    text-align: center
+  
+ 
+    
+  
+}
+
+p.Tim{
+  font-size: 18px;
+  background-color: black; 
+   color: white;
+    padding: 10px;
+      text-align: center
+    
+  
+}
+
+p.Xoanna{
+  font-size: 18px;
+  background-color: black; 
+    color: white;
+    padding: 10px;
+      text-align: center
+    
+  
+}
+
+p.Linn{
+  font-size: 18px;
+  background-color: black; 
+   color: white;
+    padding: 10px;
+      text-align: center
+    
+  
+}
+
+p.Karlotta{
+  font-size: 18px;
+  background-color: black; 
+   color: white;
+    padding: 10px;
+      text-align: center
+    
+  
+}
+
+p.Laboca{
+  font-size: 18px;
+  background-color: black; 
+  color: white;
+  padding: 10px;
+  text-align: center;
+  
+  
+    
+   
+    
+    
+  
+}
+
+main,p{
+  color: white;
+
+}
+
+div.camilio,div.Xoanna, div.Karlotta,img{
+ 
+  gap: 50px;
+  height: 293px;
+  width: 300px;
+  
+
+}
+
+div.Tim,div.Linn, div.LaBoca,img{
+  
+  height: 293px;
+  width: 300px;
+}
+
+section.card{
+  
+  margin-left: -110px;
+}
+
+div.Karlotta,div.LaBoca{
+
+margin-bottom: 60px; 
+
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAMILIO 
+
+
+
+
+
+
+body.camilio{
+    background-color: white;
+  margin-top: 0;
+}
+
+header.camilio{
+    background-color: black;
+    max-width: 1440px;
+    margin: 0%;
+    padding-left: 45px;
+    padding-top: 15px;
+    display: flex;
+    max-height: 60px;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+
+header.camilio,h1.titolositocamilio{
+    color: white;
+    margin: 0px;
+    font-size: 40px;
+    padding-bottom: 5px;
+  
+  
+}
+
+
+.navigazionecamilio{
+  font-size: 18px; 
+  color: white;
+  text-decoration: underline;
+}
+
+header.camilio, nav.camilio, div.divisionecamilio {
+ 
+  display: flex;
+  gap: 20px;
+  padding-bottom: 7px;
+  padding-right: 20px;
+}
+
+footer.camilioo{
+    background-color: black;
+   max-width: 1440px;
+    height: fit-content;
+    height: 50px;
+
+}
+
+footer.camilioo,nav.footercamilio{
+    text-align: center;
+    color: white;
+    padding-left: 80px;
+    align-items: center;
+    padding-left: 360px;
+    padding-top: 8px;
+   
+}
+
+
+main.camilio,div.testo,p{
+  color: black;
+  font-size: 16px;
+   text-align: left;
+   font-weight: normal;
+   max-width: 567px;
+  
+   
+}
+
+section.inizio {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+
+div.testoefoto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 350px;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 150px 20px;
+  margin-left: -150px;
+  
+}
+
+.testocamilio {
+ 
+  text-align: left;
+  line-height: 1.6;
+ width: 567px;
+ 
+
+  font-size: 16px;
+}
+
+
+
+
+section.galleria,div.fotocamilio{
+ display: grid;
+ grid-template-columns: repeat(2,1fr);
+ gap: 20px 300px;
+ margin-left: -100px;
+ margin-bottom: 60px;
+ 
+ 
+}
+section.galleria,div.fotocamilio,img{
+ height: auto;
+
+ 
+
+}
+
+section.galleria{
+    margin-top: 200px;
+    
+}
+
+.immaginecamilio {
+  width: 250px;
+  height: auto;
+  margin-left: -120px;
+  
+ 
+}
+
+
+.titolocamilio {
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 30px;
+  color: white;
+  font-weight: bolder;
+  background-color: black;
+ 
+  display: inline-block; 
+    text-align: center;
+  padding: 20px;
+  margin: 0;
+
+}
+
+
+
+div.testogalleria, p.galleriatesto{
+  font-size: 20px;
+  text-align: center;
+ font-weight: bold;
+ margin-right: -50px;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHI SIAMO
+
+
+ .navigazionechisiamo, .divisionechisiamo, a {
+  font-size: 18px; 
+  color: white;
+  text-decoration: underline;
+}
+
+header.aboutus, nav.navigazionechisiamo, div.divisionechisiamo {
+ 
+  display: flex;
+  gap: 20px;
+  padding-bottom: 7px;
+  padding-right: 20px;
+}
+
+
+
+footer.chisiamo{
+  background-color: black;
+  max-width: 1440px;
+  height: fit-content;
+  height: 50px;
+   
+
+}
+
+footer.chisiamo,nav.footerchisiamo{
+  text-align: center;
+  color: white;
+  padding-left: 80px;
+  align-items: center;
+  padding-left: 360px;
+  padding-top: 8px;
+  
+  
+   
+}
+
+
+.titolochisiamo {
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 30px;
+  color: white;
+  font-weight: bolder;
+  background-color: black;
+ 
+  display: inline-block; 
+    text-align: center;
+  padding: 20px;
+  margin: 0;
+
+}
+
+
+
+section.inizio1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  
+}
+
+div.testoefotochisiamo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  max-width: 1100px;
+  
+  padding: 150px 20px;
+  margin-left: -150px;
+  
+}
+
+
+div.testoefotochisiamo, img.immaginechisiamo{
+  border-radius: 20%;
+  border: 1px solid black;
+ 
+  
+}
+
+.testo1, .testo2{
+ 
+  text-align: left;
+  line-height: 1.6;
+ max-width: 700px;
+ 
+
+  font-size: 16px;
+}
+
+
+.fotochisiamo {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;                  
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  flex-wrap: wrap;           
+}
+
+.immaginechisiamo {
+  width: 300px;               
+  height: auto;
+  
+  object-fit: cover;
+  flex-shrink: 0;            
+}
+
+.testichisiamo {
+  flex: 1;                   
+  display: flex;
+  flex-direction: column;
+  gap: 80px;    
+  width: 900px;       
+  margin: 6%;       
+}
+
+.testichisiamo p {
+  line-height: 1.6;
+  margin: 0;
+}
+
+.immaginechisiamo {
+  
+  height: auto;
+  
+  margin-left: -250px;
+  padding-top: 80px;
+ width: 343px;
+ height: 343px;
+  
+  
+
+  
+  
+ 
+}
+
+
+
+
+.fotochisiamo, .testichisiamo{
+ gap: 100px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+
+
